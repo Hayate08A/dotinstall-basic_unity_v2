@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2022-04-12T18:31:48.224+09:00
-  initializedAtString: 2022-04-12T18:31:48.224+09:00
+  lastUpdatedAtString: 2022-04-12T18:52:59.112+09:00
+  initializedAtString: 2022-04-12T18:52:59.112+09:00
   currentGitRemote:
     name: origin
     url: https://github.com/Hayate08A/dotinstall-basic_unity_v2.git
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: develop
-    tracking: 
+    tracking: origin/develop
   currentConfigBranch:
     name: develop
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/Hayate08A/dotinstall-basic_unity_v2.git
+    trackingBranch: develop
   currentConfigRemote:
     name: origin
     url: https://github.com/Hayate08A/dotinstall-basic_unity_v2.git
