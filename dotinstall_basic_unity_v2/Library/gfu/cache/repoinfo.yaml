@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2022-04-14T15:38:56.623+09:00
-  initializedAtString: 2022-04-14T15:38:56.623+09:00
+  lastUpdatedAtString: 2022-04-14T16:35:38.205+09:00
+  initializedAtString: 2022-04-14T16:35:38.205+09:00
   currentGitRemote:
     name: origin
     url: https://github.com/Hayate08A/dotinstall-basic_unity_v2.git
