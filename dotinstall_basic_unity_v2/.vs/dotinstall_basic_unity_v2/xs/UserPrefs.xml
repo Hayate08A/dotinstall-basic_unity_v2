@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{08610A04-89CA-50E9-B013-BFB5E44DE2A8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PaddleScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PaddleScript.cs" Line="14" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dotinstall_basic_unity_v2" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9ee4de29-755c-479e-9505-40f4188aed56" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

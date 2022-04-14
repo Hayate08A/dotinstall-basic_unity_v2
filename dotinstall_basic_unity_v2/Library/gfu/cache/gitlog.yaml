@@ -13,9 +13,225 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2022-04-14T16:20:45.156+09:00
-  initializedAtString: 2022-04-14T15:49:36.679+09:00
+  lastUpdatedAtString: 2022-04-14T17:28:52.176+09:00
+  initializedAtString: 2022-04-14T17:28:52.128+09:00
   log:
+  - commitID: 15fa44477812abb9a5ead5a07847c385ccdbb634
+    mergeA: 
+    mergeB: 
+    authorName: adachi.h@marietta.co.jp
+    authorEmail: adachi.h@marietta.co.jp
+    commitEmail: adachi.h@marietta.co.jp
+    commitName: adachi.h@marietta.co.jp
+    summary: "[Add] \u30D1\u30C9\u30EB\u306B\u30B9\u30AF\u30EA\u30D7\u30C8\u3092\u8A2D\u5B9A\u3057\u3088\u3046"
+    description: 
+    timeString: 2022-04-14T17:28:50.000+09:00
+    commitTimeString: 2022-04-14T17:28:50.000+09:00
+    changes:
+    - path: dotinstall_basic_unity_v2/.vscode/settings.json
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/.vscode/settings.json
+      projectPath: .vscode/settings.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Assembly-CSharp.csproj
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Assets/Scenes/MainScene.unity
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Assets/Scenes/MainScene.unity
+      projectPath: Assets/Scenes/MainScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Assets/Scripts.meta
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Assets/Scripts.meta
+      projectPath: Assets/Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Assets/Scripts/PaddleScript.cs
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Assets/Scripts/PaddleScript.cs
+      projectPath: Assets/Scripts/PaddleScript.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Assets/Scripts/PaddleScript.cs.meta
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Assets/Scripts/PaddleScript.cs.meta
+      projectPath: Assets/Scripts/PaddleScript.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/ArtifactDB
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/ArtifactDB
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/ArtifactDB-lock
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/ArtifactDB-lock
+      projectPath: Library/ArtifactDB-lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/Artifacts/13/135bed32508cff3fabc004308a22c12f
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/Artifacts/13/135bed32508cff3fabc004308a22c12f
+      projectPath: Library/Artifacts/13/135bed32508cff3fabc004308a22c12f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/Artifacts/86/8649324eaf7bcf2701920d4397260c82
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/Artifacts/86/8649324eaf7bcf2701920d4397260c82
+      projectPath: Library/Artifacts/86/8649324eaf7bcf2701920d4397260c82
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/Artifacts/8c/8c984078abf5e31d47da5d84768a9cf4
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/Artifacts/8c/8c984078abf5e31d47da5d84768a9cf4
+      projectPath: Library/Artifacts/8c/8c984078abf5e31d47da5d84768a9cf4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/Artifacts/d6/d69d7f525e489c80db24730673bbe8e8
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/Artifacts/d6/d69d7f525e489c80db24730673bbe8e8
+      projectPath: Library/Artifacts/d6/d69d7f525e489c80db24730673bbe8e8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/CurrentLayout-default.dwlt
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/CurrentLayout-default.dwlt
+      projectPath: Library/CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/EditorInstance.json
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/InspectorExpandedItems.asset
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/InspectorExpandedItems.asset
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/ScriptAssemblies/Assembly-CSharp.pdb
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/ScriptAssemblies/Assembly-CSharp.pdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/ShaderCache/1/1f188d1bb6a1a356aed8cc506850dbed.bin
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/ShaderCache/1/1f188d1bb6a1a356aed8cc506850dbed.bin
+      projectPath: Library/ShaderCache/1/1f188d1bb6a1a356aed8cc506850dbed.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/ShaderCache/EditorEncounteredVariants
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/ShaderCache/EditorEncounteredVariants
+      projectPath: Library/ShaderCache/EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/ShaderCache/f/fc81fc67ca5e21fa12d8543bcbad1e2c.bin
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/ShaderCache/f/fc81fc67ca5e21fa12d8543bcbad1e2c.bin
+      projectPath: Library/ShaderCache/f/fc81fc67ca5e21fa12d8543bcbad1e2c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/SourceAssetDB
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/SourceAssetDB-lock
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/SourceAssetDB-lock
+      projectPath: Library/SourceAssetDB-lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/StateCache/MainStageHierarchy/bb/bb7d674235a5829bc4c88ba788fb0d34.json
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/StateCache/MainStageHierarchy/bb/bb7d674235a5829bc4c88ba788fb0d34.json
+      projectPath: Library/StateCache/MainStageHierarchy/bb/bb7d674235a5829bc4c88ba788fb0d34.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/StateCache/SceneView/8b/8b3e27a2bc80540a652d086ddbada810.json
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/StateCache/SceneView/8b/8b3e27a2bc80540a652d086ddbada810.json
+      projectPath: Library/StateCache/SceneView/8b/8b3e27a2bc80540a652d086ddbada810.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/gfu/cache/branches.yaml
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Logs/AssetImportWorker0-prev.log
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Logs/AssetImportWorker0-prev.log
+      projectPath: Logs/AssetImportWorker0-prev.log
+      originalPath: dotinstall_basic_unity_v2/Logs/AssetImportWorker0.log
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/Logs/shadercompiler-AssetImportWorker0.log
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/Logs/shadercompiler-AssetImportWorker0.log
+      projectPath: Logs/shadercompiler-AssetImportWorker0.log
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/ProjectSettings/TimelineSettings.asset
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/ProjectSettings/TimelineSettings.asset
+      projectPath: ProjectSettings/TimelineSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: dotinstall_basic_unity_v2/dotinstall_basic_unity_v2.sln
+      fullPath: /Users/sow/Projects/MyProject/dotinstall-basic_unity_v2/dotinstall_basic_unity_v2/dotinstall_basic_unity_v2.sln
+      projectPath: dotinstall_basic_unity_v2.sln
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: cb22352a4c7d8fd12694d5c6925854aa19cbe918
     mergeA: 
     mergeB: 
