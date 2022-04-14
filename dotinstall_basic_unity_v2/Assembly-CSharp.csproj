@@ -38,6 +38,7 @@
   <ItemGroup>
      <Compile Include="Assets/Scripts/PaddleScript.cs" />
      <Compile Include="Assets/Scripts/BallScript.cs" />
+     <Compile Include="Assets/Scripts/BallFactoryScript.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2020.3.33f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
