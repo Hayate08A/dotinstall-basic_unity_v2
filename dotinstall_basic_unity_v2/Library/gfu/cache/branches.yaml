@@ -13,18 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-04-12T19:27:47.217+09:00
-  initializedAtString: 2022-04-12T18:45:34.982+09:00
+  lastUpdatedAtString: 2022-04-14T16:16:55.942+09:00
+  initializedAtString: 2022-04-14T15:49:35.572+09:00
   localBranches:
   - name: develop
     tracking: origin/develop
-  - name: main
-    tracking: origin/main
-  remoteBranches:
-  - name: origin/develop
-    tracking: '[None]'
-  - name: origin/main
-    tracking: '[None]'
+  remoteBranches: []
   remotes:
   - name: origin
     url: https://github.com/Hayate08A/dotinstall-basic_unity_v2.git
@@ -36,37 +30,19 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - develop
-    - main
     values:
     - name: develop
       remote:
         name: origin
         url: https://github.com/Hayate08A/dotinstall-basic_unity_v2.git
       trackingBranch: develop
-    - name: main
-      remote:
-        name: origin
-        url: https://github.com/Hayate08A/dotinstall-basic_unity_v2.git
-      trackingBranch: main
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
-    - Values:
-      - develop
-      - main
+    - Values: []
     subKeyValues:
-    - Values:
-      - name: develop
-        remote:
-          name: origin
-          url: https://github.com/Hayate08A/dotinstall-basic_unity_v2.git
-        trackingBranch: 
-      - name: main
-        remote:
-          name: origin
-          url: https://github.com/Hayate08A/dotinstall-basic_unity_v2.git
-        trackingBranch: 
+    - Values: []
   configRemotes:
     keys:
     - origin
