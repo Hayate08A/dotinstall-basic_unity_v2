@@ -4,16 +4,18 @@ using UnityEngine;
 
 public class BallFactoryScript : MonoBehaviour
 {
-    public GameObject ball;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+  public GameObject ball;
+  // Start is called before the first frame update
+  void Start()
+  {
+    Instantiate(ball, transform.position, transform.rotation);
+    // InvokeRepeating();
+  }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+  void SpawnBall() { }
+
+  // Update is called once per frame
+  void Update()
+  {
+  }
 }
